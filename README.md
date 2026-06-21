@@ -12,10 +12,10 @@ Software engineer interested in **cloud-native technologies** - building reliabl
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kota-sakuma&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kota-sakuma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kota-sakuma&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=kota-sakuma&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kota-sakuma&theme=tokyo-night&hide_border=true" />
 </p>
